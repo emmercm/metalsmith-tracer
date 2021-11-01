@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-tracer",
-  "version": "0.3.11",
+  "version": "0.3.12",
   "description": "A Metalsmith plugin to find related files within collections.",
   "keywords": [
     "metalsmith",
@@ -29,10 +29,10 @@
     "test:junit": "JEST_JUNIT_OUTPUT=reports/junit/results.xml jest --ci --runInBand --reporters=default --reporters=jest-junit"
   },
   "dependencies": {
-    "callsites": "^3.1.0",
+    "callsites": "^4.0.0",
     "chalk": "^4.1.2",
     "deepmerge": "^4.2.2",
-    "ora": "^5.4.1"
+    "ora": "^6.0.1"
   },
   "devDependencies": {
     "assert-dir-equal": "1.1.0",

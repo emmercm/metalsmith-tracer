@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.0.0 / 2022-04-21
+## v1.0.0 / 2022-07-27
 
 - Convert to being an ES6 because both [callsites](https://www.npmjs.com/package/callsites) and [ora](https://www.npmjs.com/package/ora) are now.
 

@@ -2,7 +2,7 @@
 
 ## v1.0.0 / 2022-04-21
 
-- Convert to being a ECMAScript module (ESM) because both [callsites](https://www.npmjs.com/package/callsites) and [ora](https://www.npmjs.com/package/ora) are now.
+- Convert to being an ES6 because both [callsites](https://www.npmjs.com/package/callsites) and [ora](https://www.npmjs.com/package/ora) are now.
 
   This will require you to use ES6 modules as well, and will require Node.js `^12.20.0 || ^14.13.1 || >=16.0.0`.
 

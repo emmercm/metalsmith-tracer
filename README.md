@@ -1,5 +1,7 @@
 # metalsmith-tracer
 
+**⚠️ This repistory has been moved to [metalsmith-plugins](https://github.com/emmercm/metalsmith-plugins/tree/main/packages/metalsmith-tracer). ⚠️**
+
 [![npm Version](https://badgen.net/npm/v/metalsmith-tracer?icon=npm)](https://www.npmjs.com/package/metalsmith-tracer)
 [![npm Weekly Downloads](https://badgen.net/npm/dw/metalsmith-tracer)](https://www.npmjs.com/package/metalsmith-tracer)
 
